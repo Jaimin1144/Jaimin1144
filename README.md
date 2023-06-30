@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaimin
 - 👀 I’m interested in website devlopment
-- 🌱 I’m currently learning diploma coputer engineering
+- 🌱 I’m currently learning diploma computer engineering
 - 📫 How to reach me https://github.com/Jaimin1144
 
 <!---
